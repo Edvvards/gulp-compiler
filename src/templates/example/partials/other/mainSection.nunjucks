@@ -1,0 +1,46 @@
+<!-- Next Stop Arriva Section -->
+                        <tr>
+                           <td class="one-column">
+                              <table width="100%">
+                                 <tr>
+                                    <td class="contents">
+                                       <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+                                          <tr>
+                                             <td align="left" style="padding:0 20px;font-family:Helvetica, sans-serif !important;font-size:80px;line-height:90px !important;color:#009cb3;text-transform:capitalize;">
+                                                <strong>Some Strapping Headline.</strong>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td width="100%" height="30" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;">
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" style="padding:0 20px;font-family:Helvetica, sans-serif !important;font-size:14px;line-height:24px !important;color:#333333;">
+                                                Excepteur quis deserunt consequat velit nulla sunt elit. Adipisicing duis cillum reprehenderit ipsum aliqua veniam aute reprehenderit. Velit officia velit in culpa laboris labore veniam nulla laboris elit eiusmod ea cillum. Labore do cillum id et laborum tempor elit velit officia exercitation id. Dolor occaecat sit esse amet exercitation laboris sint ipsum ut est adipisicing magna et.
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td width="100%" height="30" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;">
+                                             </td>
+                                          </tr>
+                                          <!--CTA-->
+                                          <tr>
+                                             <td align="center">
+                                                <div>
+                                                   <!--[if mso]>
+                                                   <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:60px;v-text-anchor:middle;width:200px;" arcsize="5%" strokecolor="#009cb3" fillcolor="#009cb3">
+                                                      <w:anchorlock/>
+                                                      <center style="color:#ffffff;font-family:Helvetica, Arial, sans-serif;font-size:14px;text-transform:uppercase;font-weight:bold;">CTA Text</center>
+                                                   </v:roundrect>
+                                                   <![endif]-->
+                                                   <a class="bg-rollover" href="" style="background-color:#009cb3;border:1px solid #009cb3;-webkit-border-radius: 100px; -moz-border-radius: 100px; border-radius: 100px;color:#ffffff;display:inline-block;font-family:Helvetica, Arial, sans-serif;font-size:14px;line-height:24px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;text-transform:uppercase;font-weight:bold; padding: 12px 18px;">Good CTA Text!</a>
+                                                </div>
+                                             </td>
+                                          </tr>
+                                            <!--End of CTA-->
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </td>
+                        </tr>

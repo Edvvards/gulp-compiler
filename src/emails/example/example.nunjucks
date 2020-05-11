@@ -1,0 +1,16 @@
+{% extends "example.nunjucks" -%}
+
+{# Meta info #}
+{% set MetaTitle = 'Example | Title' -%}
+{% set mainURL = 'https://www.google.com/' -%}
+{% set logoImg = '' -%}
+{% set favicon = '' -%}
+{% set preHeader = '--First Name--, Here is your latest email' -%}
+
+{# All CTA's #}
+{% set callUsURL = 'https://www.google.com/' -%}
+{% set ctaText = 'CTA Text' -%}
+{% set ctaURL = 'https://www.google.com/' -%}
+
+{# Footer #}
+{% set unsubLink = '--unsubscribe--' -%}

@@ -1,0 +1,98 @@
+
+
+                        <!--Closing tags for body of email-->
+                     </table>
+                     <!--[if (gte mso 9)|(IE)]>
+                  </td>
+               </tr>
+            </table>
+            <![endif]-->
+         </div>
+      </center>
+
+      <!-- FOOTER -->
+      <center class="wrapper">
+         <div class="webkit mob-footer">
+            <!--[if (gte mso 9)|(IE)]>
+            <table width="600" align="center">
+               <tr>
+                  <td>
+                     <![endif]-->
+                     <table class="outer" align="center">
+                        <!-- single coloumn -->
+                        <tr>
+                           <td class="one-column" bgcolor="#333333" style="background-color: #333333; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px">
+                              <table width="100%">
+                                 <tr>
+                                    <!-- <td class="inner contents"> -->
+                                    <td class="contents">
+                                       <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                          <tr>
+                                             <td width="100%" height="20" style="font-size:1px;line-height:1px;"> </td>
+                                          </tr>
+                                          <tr>
+                                             <td class="footer-center" align="center">
+                                                <table class="social-footer" role="presentation">
+                                                   <tr>
+                                                      <td align="center" class="social-footer-icons"><a href=""><i class="fab fa-facebook-square"></i> </a></td>
+                                                      <td align="center" class="social-footer-icons"><a href=""><i class="fab fa-instagram-square"></i> </a></td>
+                                                      <td align="center" class="social-footer-icons"><a href=""><i class="fab fa-twitter-square"></i> </a></td>
+                                                   </tr>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td width="100%" height="30" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;text-align:center;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" style="padding:0 20px;font-family:Helvetica, 'Open Sans', sans-serif;font-size:12px;line-height:20px;vertical-align:middle;width:100%;overflow:hidden;word-wrap:break-word;color:#ffffff;">Copyright © 2020 YOUR COMPANY, All rights reserved.</td>
+                                          </tr>
+                                          <tr>
+                                             <td width="100%" height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;text-align:center;"></td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" valign="top" style="color:#ffffff;font-family:Helvetica, Arial, sans-serif;font-size:11px;line-height:150%;padding-right:20px;padding-bottom:5px;padding-left:20px;text-align:center;">
+                                                This email was sent to <a href="mailto:*|EMAIL|*" target="_blank" style="color:#ffffff !important;">*|EMAIL|*</a>
+                                               
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td width="100%" height="30" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;text-align:center;"></td>
+                                          </tr>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </table>
+                           </td>
+                        </tr>
+                     </table>
+                     <!--[if (gte mso 9)|(IE)]>
+                  </td>
+               </tr>
+            </table>
+            <![endif]-->
+         </div>
+      </center>
+      <!-- End of footer -->
+
+      <!--White Spacer-->
+<tr>
+    <td class="one-column">
+        <table width="100%">
+            <tr>
+            <td class="contents">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+                    <tr>
+                        <td bgcolor="#ffffff" style="background-color:#ffffff;" width="100%" height="40">
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+<!--End of White Spacer -->
+
+   </body>
+</html>
