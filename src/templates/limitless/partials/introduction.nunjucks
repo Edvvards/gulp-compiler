@@ -1,0 +1,81 @@
+  <!-- Introduction -->
+                                 <tr>
+                                    <td class="one-column" style="-webkit-border-radius: 10px 10px 10px 10px; -moz-border-radius: 10px 10px 10px 10px; border-radius: 10px 10px 10px 10px; overflow:hidden!important; mso-hide: all; background-color: #efefef;box-shadow: 0 1px 3px rgba(104, 104, 104, 0.8); -moz-box-shadow: 0 1px 3px rgba(104, 104, 104, 0.8); -webkit-box-shadow: 0 1px 3px rgba(104, 104, 104, 0.8);">
+                                       <table width="100%" role="presentation">
+                                          <tr>
+                                             <td class="contents" style="max-width: 600px;">
+                                                <table bgcolor="#efefef" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #efefef;" role="presentation">
+                                                   <tr>
+                                                      <td align="center">
+                                                         <!--[if (gte mso 9)|(IE)]>
+                                                         <v:image src="https://via.placeholder.com/600x300"
+                                                            style="width:600;height:300; margin: auto;">
+                                                         </v:image>
+                                                         <![endif]-->
+                                                         <!--[if !IE]><!-->
+                                                         <div style="-webkit-border-radius: 10px 10px 0px 0px; -moz-border-radius: 10px 10px 0px 0px; border-radius: 10px 10px 0px 0px; overflow:hidden!important; mso-hide: all; width:100%; max-width:100%; margin: auto;">
+                                                            <img src="https://via.placeholder.com/600x300" border="0" width="600" height="300" alt="Limitless Travel" style="display: block; width: 100%; height: 300px;" />
+                                                         </div>
+                                                      </td>
+                                                   </tr>
+                                                   <!--<![endif]-->
+                                                   <!--End of Main image -->
+                                                   <!-- Introduction -->
+                                                   <tr>
+                                                      <td height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                                   </tr>
+                                                   <tr>
+                                                      <td align="left" style="padding:0 20px;font-family:Helvetica,sans-serif !important;font-size:18px;line-height:28px;color:#041857 !important;">
+                                                         <p></p>
+                                                      </td>
+                                                   </tr>
+                                                   <tr>
+                                                      <td align="left" style="padding:0 20px;font-family:Helvetica,sans-serif !important;font-size:18px;line-height:28px;color:#041857 !important;">
+                                                         <p>Dear --First Name--,<br>We wanted to let you know about an exciting offer we’ve got for you, plus it’s exclusively yours. Book your Limitless trip in the next 5 days and we’ll give you £50 off. You know what they say about early birds…</p>
+                                                      </td>
+                                                   </tr>
+                                                   <tr>
+                                                      <td height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                                   </tr>
+                                                   <!--CTA-->
+                                                   <tr>
+                                                      <td align="center">
+                                                         <div>
+                                                            <!--[if mso]>
+                                                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="tel:08000698060" style="height:60px;v-text-anchor:middle;width:200px;" arcsize="5%" strokecolor="#ffbb00" fillcolor="#ffbb00">
+                                                               <w:anchorlock/>
+                                                               <center style="color:#041857;font-family:Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;">Call Us On<br> 0800 711 7152</center>
+                                                            </v:roundrect>
+                                                            <![endif]-->
+                                                            <a class="bg-rollover" href="tel:08000698060" style="background-color:#ffbb00;border:1px solid #ffbb00;-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;color:#041857;display:inline-block;font-family:Helvetica, Arial, sans-serif;font-size:20px;line-height:24px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;font-weight:bold; padding: 12px 18px;">Call Us On<br>0800 711 7152</a>
+                                                         </div>
+                                                      </td>
+                                                   </tr>
+                                                   <!--End of CTA-->
+                                                   <tr>
+                                                      <td height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                                   </tr>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </table>
+                                    </td>
+                                 </tr>
+                                 <!-- End of Introduction -->
+                                 <!-- Spacer -->
+                                 <tr>
+                                    <td class="one-column">
+                                       <table width="100%">
+                                          <tr>
+                                             <td class="contents">
+                                                <table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px;" width="100%">
+                                                   <tr>
+                                                      <td height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                                   </tr>
+                                                </table>
+                                             </td>
+                                          </tr>
+                                       </table>
+                                    </td>
+                                 </tr>
+                                 <!-- End of spacer -->

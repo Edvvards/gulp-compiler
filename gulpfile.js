@@ -4,7 +4,7 @@ import nunjucksRender from 'gulp-nunjucks-render';
 import notify from 'gulp-notify';
 import plumber from 'gulp-plumber';
 
-const clients = ['example'];
+const clients = ['limitless'];
 const browser = browserSync.create();
 
 //  Start Browser

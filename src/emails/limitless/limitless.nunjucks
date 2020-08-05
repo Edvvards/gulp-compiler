@@ -1,4 +1,4 @@
-{% extends "example.nunjucks" -%}
+{% extends "limitless.nunjucks" -%}
 
 {# Meta info #}
 {% set MetaTitle = 'Example | Title' -%}
