@@ -1,0 +1,83 @@
+<!-- Body closing tags-->   
+                              </table>
+                           </td>
+                        </tr>
+                     </table>
+                     <!--[if (gte mso 9)|(IE)]>
+               </td>
+            </tr>
+         </table>
+         <![endif]-->
+         </div>
+      </center>
+      <!-- End of body -->
+
+      <!--Footer-->
+      <center class="wrapper" style="background-color:#f0f1f3">
+         <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" style="border-collapse:collapse;margin:0;padding:0;height:100%!important;width:100%!important" width="100%" role="presentation">
+            <tr>
+               <td align="center" style="margin:0;padding:0px;border-top:0;height:100%!important;width:100%!important;" valign="top" class="">
+                  <div class="webkit">
+                     <!--[if (gte mso 9)|(IE)]>
+                     <table width="600" align="center">
+                        <tr>
+                           <td>
+                              <![endif]-->
+                              <table border="0" cellpadding="0" cellspacing="0" width="600" role="presentation">
+                              </table>
+                              <table bgcolor="#f0f1f3" style="background-color: #f0f1f3;  overflow:hidden!important; mso-hide: all;" align="center" class="outer" role="presentation">
+                                 <tr>
+                                    <td class="one-column" style="-webkit-border-radius: 10px 10px 0px 0px; -moz-border-radius: 10px 10px 0px 0px; border-radius: 10px 10px 0px 0px; overflow:hidden!important; mso-hide: all;">
+                                       <table width="100%" role="presentation">
+                                          <tr>
+                                             <td height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" style="padding:0px 20px;font-family:Helvetica,sans-serif !important;font-size:40px;line-height:54px;color:#4b3fc9 !important;font-weight:bold;">
+                                                <p>Jolt
+                                                </p>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="20" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" style="padding:0 20px;font-family:Helvetica,sans-serif !important;font-size:14px;line-height:28px;color:#212420 !important;">
+                                                <p>Jolt, 34-37 Liverpool Street, London, England EC2M 7PP, GB
+                                                </p>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="10" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                          </tr>
+                                          <tr>
+                                             <td align="center" style="padding:0 20px;font-family:Helvetica,sans-serif !important;font-size:14px;line-height:28px;color:#212420 !important;">
+                                                <p><a style="color:#00a4bd" href="">Unsubscribe</a> <a style="color:#00a4bd" href="">Manage Preferences</a>
+                                                </p>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td height="40" style="font-size:1px;line-height:1px;mso-line-height-rule:exactly;" width="100%" class="">&nbsp;</td>
+                                          </tr>
+                                       </table>
+                                       <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                 </tr>
+                              </table>
+                              <![endif]-->
+                           </td>
+                        </tr>
+                     </table>
+                     <!--[if (gte mso 9)|(IE)]>
+               </td>
+            </tr>
+         </table>
+         <![endif]-->
+         </td>
+         </tr>
+         </table>
+         </div>
+      </center>
+      <!-- End of footer -->
+   </body>
+</html>
